@@ -48,7 +48,7 @@ El objetivo central de este curso es familiarizar al estudiante con preguntas fu
 
 **Horario y salón**: Miércoles, 8:00 - 9:00 am, E203; Viernes 8:00 - 10:00 am, C106. 
 
-**Página web del seminario**: http://jcunisabana.github.io/HFC-2019 
+**Página web del seminario**: https://jcunisabana.github.io/HFC2019I/
 
 ----
 
