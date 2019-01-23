@@ -97,6 +97,11 @@ Notas <- read_excel("HFC.xlsx", sheet = "notas")
   column_spec(1:2, width = "30em")
 ```
 
+<iframe width="100%" height="400" align="middle" src="1.html" border="0">
+</iframe>
+<a href="1.html">Presentación en pantalla completa</a>
+
+
 ---
 `r Semana <- Semana +1`
 
