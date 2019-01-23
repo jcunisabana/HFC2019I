@@ -391,13 +391,7 @@ Notas <- read_excel("HFC.xlsx", sheet = "notas")
 
 #### **Talleres**
 
-Actividades para realizar en casa y en clase que servirán de pasos intermedios en el aprendizaje. En clase se ofrecerán instrucciones más precisas cuando llegue el momento de cada taller.
-
-#### **Presentación oral**
-
-Extensión: entre 20 y 25 minutos.
-
-La presentación debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. Ustedes son los encargados de la sesión durante el tiempo asignado; es su deber coordinar la dinámica durante ese tiempo.
+Los talleres consistirán en una serie de preguntas que los alumnos deberán solucionar en la plataforma virtual. Es deber del estudiante entender bien cómo funciona la plataforma con anticipación a la fecha límite de entrega del taller.
 
 #### **Control de lectura**
 Extensión: entre 400 y 1000 palabras.
@@ -407,11 +401,6 @@ Para cada lectura asignada, los estudiantes deben escribir un texto corto con la
 Los controles deberán ser subidos a la plataforma virtual a más tardar **75 horas** antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan el control de lectura de la sesión en la que tienen que hacer la presentación y entregan todos los demás, su nota igual queda en 5.0.
-
-#### **Ensayo argumentativo**
-Extensión: entre 2000 y 3500 palabras.
-
-Un texto argumentativo de en donde se responda a una pregunta. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 
 #### **Calificación**
