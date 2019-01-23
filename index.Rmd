@@ -405,7 +405,7 @@ Para cada lectura asignada, los estudiantes deben escribir un texto corto con la
 
 Los controles deberán ser subidos a la plataforma virtual a más tardar **75 horas** antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
-Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan el control de lectura de la sesión en la que tienen que hacer la presentación y entregan todos los demás, su nota igual queda en 5.0.
+Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan un control de lectura y entregan todos los demás, su nota igual queda en 5.0.
 
 
 #### **Calificación**
