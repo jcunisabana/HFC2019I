@@ -177,7 +177,7 @@ Notas <- read_excel("HFC.xlsx", sheet = "notas")
 
 - Leer: `r PlanSemanal$Texto[Semana]`
 
-- Hacer: Control de lectura `r if(!(is.na(PlanSemanal$Recordatorio[Semana]))) paste("y ", PlanSemanal$Recordatorio[Semana]) `
+- Hacer: `r if(!(is.na(PlanSemanal$Recordatorio[Semana]))) paste("", PlanSemanal$Recordatorio[Semana]) `
 
 
 ---
